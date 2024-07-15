@@ -9,7 +9,7 @@ inga_posiunaite = {
     'computer_languages': ['Python', 'Java', 'C#'],
     'databases': ['SQL', 'NoSQL'],
     'cloud_fundamentals': ['Azure', 'AWS', 'GCP'],
-    'other_tools': ['Docker', 'Kubernetes', 'Terraform', 'CI/CD', 'Azure DevOps', 'Linux', 'BASH & PowerShell', 'Agile'],
+    'other_tools': ['Docker', 'Kubernetes', 'Terraform', 'CI/CD', 'Azure DevOps', 'Linux', 'BASH & PowerShell', 'Agile', 'SDLC', '.NET'],
     'human_languages': ['English', 'Lithuanian', 'Russian']
 }
 ```
