@@ -5,7 +5,7 @@
 ```python
 inga_posiunaite = {
     'name': 'Inga Posiunaite',
-    'location': 'London, UK',
+    'location': 'Glasgow, Scotland',
     'computer_languages': ['Python', 'Java', 'C#'],
     'databases': ['SQL', 'NoSQL'],
     'cloud_fundamentals': ['Azure', 'AWS', 'GCP'],
