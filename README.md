@@ -10,7 +10,6 @@ inga_posiunaite = {
     'databases': ['SQL', 'NoSQL'],
     'cloud_fundamentals': ['Azure', 'AWS', 'GCP'],
     'other_tools': ['Docker', 'Kubernetes', 'Terraform', 'CI/CD', 'Azure DevOps', 'Linux', 'BASH & PowerShell', 'Agile', 'SDLC', '.NET'],
-    'human_languages': ['English', 'Lithuanian', 'Russian']
 }
 ```
 
